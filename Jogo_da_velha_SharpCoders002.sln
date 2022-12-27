@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo_da_velha_SharpCoders002", "Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002.csproj", "{9E07F194-C26A-43E4-9D96-7ECF88664861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E07F194-C26A-43E4-9D96-7ECF88664861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E07F194-C26A-43E4-9D96-7ECF88664861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E07F194-C26A-43E4-9D96-7ECF88664861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E07F194-C26A-43E4-9D96-7ECF88664861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82331A2E-EE6D-4826-A462-88DA0039D3C9}
+	EndGlobalSection
+EndGlobal

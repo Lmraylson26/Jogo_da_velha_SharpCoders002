@@ -1,0 +1,15 @@
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\bin\Debug\net6.0\Jogo_da_velha_SharpCoders002.exe
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\bin\Debug\net6.0\Jogo_da_velha_SharpCoders002.deps.json
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\bin\Debug\net6.0\Jogo_da_velha_SharpCoders002.runtimeconfig.json
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\bin\Debug\net6.0\Jogo_da_velha_SharpCoders002.dll
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\bin\Debug\net6.0\Jogo_da_velha_SharpCoders002.pdb
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\obj\Debug\net6.0\Jogo_da_velha_SharpCoders002.csproj.AssemblyReference.cache
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\obj\Debug\net6.0\Jogo_da_velha_SharpCoders002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\obj\Debug\net6.0\Jogo_da_velha_SharpCoders002.AssemblyInfoInputs.cache
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\obj\Debug\net6.0\Jogo_da_velha_SharpCoders002.AssemblyInfo.cs
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\obj\Debug\net6.0\Jogo_da_velha_SharpCoders002.csproj.CoreCompileInputs.cache
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\obj\Debug\net6.0\Jogo_da_velha_SharpCoders002.dll
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\obj\Debug\net6.0\refint\Jogo_da_velha_SharpCoders002.dll
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\obj\Debug\net6.0\Jogo_da_velha_SharpCoders002.pdb
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\obj\Debug\net6.0\Jogo_da_velha_SharpCoders002.genruntimeconfig.cache
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Jogo_da_velha_SharpCoders002\Jogo_da_velha_SharpCoders002\obj\Debug\net6.0\ref\Jogo_da_velha_SharpCoders002.dll
